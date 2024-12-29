@@ -1,12 +1,15 @@
 # Controlling lamp with hand gesture (ON/OFF)
 ## Introduction
 This project aims to turn lights on and off using hand gestures. It combines the principles of image processing and recognition with IoT technology. Image processing and recognition are used to detect hand gestures, while IoT, based on the MQTT protocol, is employed to transmit the detection results to a microcontroller, specifically the ESP32, which controls the lights.
+
+## Demo Video : https://youtu.be/2zyslDbxnYM
 ## Required components
 1. ESP32/Arduino Uno
 2. AC Lamp
 3. Lamp Fitting
 4. Relay
 5. Computer with camera
+
 ## Steps to Set Up
 
 ### 1. Circuit Assembly
